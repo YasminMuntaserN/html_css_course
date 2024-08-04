@@ -1,6 +1,6 @@
 # Lesson2 Exercises
 
-![Example Image](https://imgur.com/EB1pwS2.png)
+![Example Image](https://imgur.com/A47Bc55.png)
 
 
 
