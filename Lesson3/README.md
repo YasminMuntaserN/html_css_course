@@ -1,8 +1,4 @@
 # Lesson3 Exercises
-
-<video width="320" height="240" controls>
-  <source src="https://i.imgur.com/DlZcRTq.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Example GIF](https://imgur.com/qNtWgJ0.gif)
 
 
