@@ -1,0 +1,71 @@
+.first_Design {
+  font-size: 16px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(200, 200, 200);
+  padding:12px 15px ;
+  border-radius: 8px;
+  margin-left: 20px;
+}
+.Secound_Design {
+  display: block;
+  font-size: 16px;
+  border-style: none;
+  padding:10px 110px 10px  20px ;
+  border-radius: 30px;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+  margin-top: 30px;
+  margin-left: 20px;
+}
+div{
+  margin-top: 100px;
+  margin-left: 30px;
+}
+p{
+  color: rgb(95, 93, 93);
+}
+.text-box{
+  padding:6px 90px  ;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(15, 14, 14);
+  border-radius: 5px;
+}
+.disclaimer {
+  font-size: 15px;
+  margin-bottom: 20px;
+}
+.join-button {
+  background-color: rgb(10, 102, 194);
+  color: white;
+  border: none;
+  font-size: 20px;
+  width: 350px;
+  padding-top: 13px;
+  padding-bottom: 10px;
+  border-radius: 30px;
+}
+.exercise-picture{
+  width: 70px;
+   height: 70px;
+   border-radius:100px;
+  vertical-align: middle;
+
+}
+
+.text-box2{
+  padding:6px 10px  ;
+  border-color: aliceblue;
+  border-style: none;
+  font-size: 17px;
+}
+.tweet-button {
+  background-color: rgb(29, 155, 240);
+  color: white;
+  border: none;
+  padding: 10px 30px;
+  border-radius: 30px;
+  font-size: 16px;
+  font-weight: bold;
+  vertical-align: middle;
+}

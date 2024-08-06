@@ -1,0 +1,10 @@
+.Secound_Design {
+  display: block;
+  font-size: 16px;
+  border-style: none;
+  padding:10px 110px 10px  20px ;
+  border-radius: 30px;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+  margin-top: 30px;
+  margin-left: 20px;
+}

@@ -1,0 +1,9 @@
+.first_Design {
+  font-size: 16px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(200, 200, 200);
+  padding:12px 15px ;
+  border-radius: 8px;
+  margin-left: 20px;
+}

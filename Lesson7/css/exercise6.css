@@ -1,0 +1,29 @@
+
+div{
+  margin-top: 100px;
+  margin-left: 30px;
+}
+p{
+  color: rgb(95, 93, 93);
+}
+.text-box{
+  padding:6px 90px  ;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(15, 14, 14);
+  border-radius: 5px;
+}
+.disclaimer {
+  font-size: 15px;
+  margin-bottom: 20px;
+}
+.join-button {
+  background-color: rgb(10, 102, 194);
+  color: white;
+  border: none;
+  font-size: 20px;
+  width: 350px;
+  padding-top: 13px;
+  padding-bottom: 10px;
+  border-radius: 30px;
+}

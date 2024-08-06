@@ -1,0 +1,24 @@
+.exercise-picture{
+  width: 70px;
+   height: 70px;
+   border-radius:100px;
+  vertical-align: middle;
+
+}
+
+.text-box2{
+  padding:6px 10px  ;
+  border-color: aliceblue;
+  border-style: none;
+  font-size: 17px;
+}
+.tweet-button {
+  background-color: rgb(29, 155, 240);
+  color: white;
+  border: none;
+  padding: 10px 30px;
+  border-radius: 30px;
+  font-size: 16px;
+  font-weight: bold;
+  vertical-align: middle;
+}
