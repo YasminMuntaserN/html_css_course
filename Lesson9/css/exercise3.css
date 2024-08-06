@@ -1,0 +1,28 @@
+p {
+  display: block;
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+button {
+  width: 70px;
+  height: 30px;
+}
+.Instal{
+  color: aliceblue;
+  padding: 10px ;
+  font-size: 25px;
+  font-weight: bold;
+}
+.Text{
+  padding-left: 10px ;
+  color: rgb(125, 126, 127);
+}
+div{
+  background-color: rgb(41, 39, 39);
+  margin: 30px;
+  padding-left: 20px  ;
+  padding-right: 10px  ;
+  padding-bottom: 30px  ;
+  width: 360px;
+}
