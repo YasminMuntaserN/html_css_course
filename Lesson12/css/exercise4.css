@@ -1,0 +1,31 @@
+
+.container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 20px;
+  padding-right: 15px;
+  background-color: rgb(120, 82, 178);
+  color: white;
+}
+input{
+  width:500px;
+  border-radius:20px ;
+  border-style: none;
+  padding: 5px 15px;
+  margin-left: 60px;
+  margin-right: 70px;
+
+}
+.Title{
+  font-weight: 500;
+  font-size: 17px;
+}
+button{
+  padding: 7px;
+  background-color: transparent;
+  border-color: aliceblue;
+  color: aliceblue;
+  border-style: solid;
+}

@@ -1,0 +1,45 @@
+p{
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Arial;
+}
+.row{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 10px;
+  width:400px;
+}
+.profile-picture{
+  width: 60px;
+  height: 60px;
+  border-radius: 50px;
+}
+.info{
+  /* margin-left: 10px; */
+  margin-right: 80px;
+  width: 100px;
+}
+.follow-button {
+  background-color: rgb(29, 155, 240);
+  color: white;
+  border: none;
+  font-size: 16px;
+  font-weight: bold;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.name{
+  font-size: 18px;
+  font-weight: bold;
+}
+.category , .handle{
+  color: gray ;
+  font-size: 14px;
+
+}
