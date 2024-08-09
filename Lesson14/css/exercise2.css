@@ -1,0 +1,42 @@
+body{
+  background-color: bisque;
+  height:3000 px;
+}
+.container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 15px 10px 40px;
+  background-color: rgb(255, 255, 255);
+  position: fixed;
+  top:0;
+  left: 0;
+  right: 0;
+  height: 50px;
+}
+.first ,.second{
+  display: flex;
+  justify-content: space-between;
+  align-items: center
+}
+img{
+  height: 40px;
+  width: 40px;
+  border-radius: 20px;
+}
+button{
+  padding: 7px 10px;
+  font-weight: bold;
+  border-style: none;
+  border-radius: 5px;
+}
+.Add{
+  background-color: rgb(40, 87, 195);
+  color: white;
+}
+.Name{
+margin-left: 5px;
+font-weight: bold;
+font-size: 18px;
+}
+
