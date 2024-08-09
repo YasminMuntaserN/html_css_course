@@ -1,0 +1,32 @@
+img{
+  width:300px;
+  height: 300px;
+  object-fit: cover;
+}
+.first{
+  position: relative;
+  display: inline-block;
+}
+.price{
+  position: absolute;
+  font-family: Arial;
+  font-size: 20px;
+  left: -79px;
+   bottom:  270px;
+  color: white;
+  background-color: black;
+  font-size: 14px;
+  padding: 7px;
+  position: relative;
+display: inline-block;
+}
+.Layout{
+  background-color: rgba(254, 254, 254, 0.6);
+  position: absolute;
+  bottom:80;
+  padding: 32px 110px;
+}
+button{
+  padding: 10px 15px;
+  border-color: black;
+}

@@ -1,0 +1,20 @@
+img{
+  width:300px;
+  height: 300px;
+  object-fit: cover;
+}
+.first{
+  position: relative;
+  display: inline-block;
+}
+.price{
+  position: absolute;
+  font-family: Arial;
+  font-size: 20px;
+  top: 10px;
+  right: 0px;
+  color: white;
+  background-color: black;
+  font-size: 14px;
+  padding: 7px;
+}

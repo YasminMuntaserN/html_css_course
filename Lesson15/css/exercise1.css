@@ -1,0 +1,56 @@
+body{
+  height:3000px;
+}
+.close-container{
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  padding: 5px 10px;
+  border-radius: 20px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(36, 36, 37);
+}
+.box{
+  position: fixed;
+  width: 320px;
+  height: 180px;
+  background-color: rgb(117, 117, 120);
+  top:100px;
+  right:10px;
+}
+
+.boxInsideFullBox{
+  background-color: brown;
+  top:100px;
+  left:10px;
+  position: relative;
+}
+.close-containerInsideFullBox{
+  position: absolute;
+  font-family: Arial;
+  font-size: 20px;
+  top: -12px;
+  left:  -12px;
+  padding: 5px 10px;
+  border-radius: 20px;
+  color: white;
+  background-color: rgb(36, 36, 37);
+}
+.SecoundBoxInsideFullBox{
+  background-color: rgb(253, 179, 30);
+  top:150px;
+  left:10px;
+  position: relative;
+}
+.Time{
+  position: absolute;
+  font-family: Arial;
+  font-size: 20px;
+  bottom: 8px;
+  right:  5px;
+  color: white;
+  background-color: black;
+font-size: 14px;
+padding: 3px;
+}
