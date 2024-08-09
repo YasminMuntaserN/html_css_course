@@ -1,0 +1,43 @@
+p{
+  margin-top: 1px;
+  margin-bottom: 0;
+  font-family: Arial;
+}
+.container{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  width: 450px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+  border-radius: 4px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.Secound{
+  flex: 1;
+}
+img{
+  width:50px ;
+  height: 50px;
+  border-radius: 25px;
+  margin-right: 7px;
+}
+.flex{
+  margin-top: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+}
+.Message , .Time ,.header{
+  color: rgb(124, 121, 121);
+}
+.SenderName {
+  font-size: 17px;
+  font-weight: bold;
+}
+.Title{
+  font-weight: bold;
+  font-size: 15px;
+}
+
