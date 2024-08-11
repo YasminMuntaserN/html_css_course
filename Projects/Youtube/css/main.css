@@ -3,6 +3,7 @@
   grid-template-columns: repeat(3, 1fr);
   column-gap: 15px;
   row-gap: 60px;
+  margin-left: 100px;
 }
 
 .thumbnail-container{
@@ -94,3 +95,4 @@ display: inline-block;
   color: rgb(96, 96, 96);
   font-size: 14px;
 }
+

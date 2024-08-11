@@ -14,12 +14,11 @@
   background-color: white;
   padding-bottom: 10px;
   padding-top: 10px;
-  border-bottom: 1px solid rgb(211, 211, 211);
 }
 
 .icon{
-  width: 35px;
-  height: 35px;
+  width: 40px;
+  height: 40px;
 }
 
 .left-section {
@@ -28,7 +27,10 @@
   justify-content: space-between;
   margin-left:50px;
 }
+.hamburger-menu{
+  margin-left: -15px;
 
+}
 .youtube-logo{
   margin-left: 40px;
   width:130px;
