@@ -22,8 +22,8 @@ display: inline-block;
   position: absolute;
   font-family: Roboto, Arial;
   font-size: 20px;
-  bottom: -5px;
-  right: -3px;
+  bottom: -2px;
+  right: -2px;
   color: white;
   background-color: black;
   font-size: 14px;
@@ -38,6 +38,7 @@ display: inline-block;
 }
 .channel-picture {
   margin-left: 5px;
+  object-fit: cover;
     width: 35px;
     height: 35px;
     border-radius: 50px;
