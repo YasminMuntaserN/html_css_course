@@ -1,0 +1,35 @@
+body{
+  height:3000px;
+  font-family: Arial;
+}
+p{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+html {
+  scroll-behavior: smooth;
+}
+main{
+  display: block;
+}
+/* Small */
+@media (min-width: 768px) {
+  .video-grid {
+    width: 750px;
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+/* Medium */
+@media (min-width: 992px) {
+  .video-grid {
+    width: 970px;
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+/* Large */
+@media (min-width: 1200px) {
+  .video-grid {
+    grid-template-columns: repeat(4, 1fr);
+
+  }
+}
