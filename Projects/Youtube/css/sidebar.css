@@ -1,9 +1,11 @@
 .sidebar{
   position: fixed;
-  top:100px;
   left:3px;
+  top: 90px;
+  bottom:0;
   width:100px;
-  z-index: 200px;
+  z-index: 200;
+  background-color: white;
 }
 
 .sidebar-link{
@@ -11,7 +13,7 @@
   align-items: center;
   flex-direction: column;
   justify-content: space-between; 
-  margin-bottom: 35px;
+  margin-top: 35px;
   cursor: pointer;
   border-top: none;
 }

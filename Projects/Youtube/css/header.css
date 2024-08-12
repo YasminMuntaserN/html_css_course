@@ -3,17 +3,17 @@
   align-items: center;
   justify-content: space-between;
   
-  height: 60px;
+  height: 65px;
   position: fixed;
   top: 0;
   left: 0;
   right: 0;
 
   z-index: 100;
-
   background-color: white;
-  padding-bottom: 10px;
-  padding-top: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid rgb(195, 190, 190) ;
 }
 
 .icon{
@@ -27,14 +27,39 @@
   justify-content: space-between;
   margin-left:50px;
 }
+
+.iconBox{
+  position: relative;
+  display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tooltip{
+position: absolute;
+background-color: gray;
+color: white;
+font-size: 20px;
+padding: 7px 15px;
+border-radius: 3px;
+position: absolute;
+bottom: -47px;
+opacity: 0;
+transition: opacity 0.15s;
+pointer-events: none;
+white-space: nowrap;
+}
+.iconBox:hover .tooltip{
+  opacity: 1;
+}
+
 .hamburger-menu{
   margin-left: -15px;
 
 }
 .youtube-logo{
   margin-left: 40px;
-  width:130px;
-  height: 130px;
+  width:150px;
+  height: 150px;
 }
 
 .middle-section{

@@ -3,7 +3,8 @@
   grid-template-columns: repeat(3, 1fr);
   column-gap: 15px;
   row-gap: 60px;
-  margin-left: 100px;
+  margin-left: 110px;
+  margin-top: 110px;
 }
 
 .thumbnail-container{
@@ -12,36 +13,35 @@ display: inline-block;
 }
 
 .thumbnail-container .thumbnail{
-  width:260px;
-  height: 200px;
+  width: 400px;
+  height: 250px;
   position: relative;
   top: 10px;
-  left: 8px;
+  left: 20px;
 
 }
 .thumbnail-container .video-time{
   position: absolute;
   font-family: Roboto, Arial;
   font-size: 20px;
-  bottom: -2px;
-  right: -2px;
+  bottom: 5px;
+  right: -15px;
   color: white;
   background-color: black;
-  font-size: 14px;
   padding: 3px;
 }
 
 .video-info-container{
   margin-top: 25px;
-  margin-left: 3px;
+  margin-left: 20px;
   display: grid;
-  grid-template-columns: 50px 1fr;
+  grid-template-columns: 55px 1fr;
 }
 .channel-picture {
   margin-left: 5px;
   object-fit: cover;
-    width: 35px;
-    height: 35px;
+    width: 40px;
+    height: 40px;
     border-radius: 50px;
     cursor: pointer;
 }
@@ -50,10 +50,14 @@ display: inline-block;
   display: inline-block;
 }
 .channel-Info{
-    font-size: 15px;
-    color: gray;
-    margin-top: 10px;
-    line-height: 19px;
+  font-size: 15px;
+  color: gray;
+  margin-top: 10px;
+  line-height: 22px;
+}
+.video-title{
+  font-weight: 500;
+  font-size: 18px;
 }
 .channel-Info-tooltips{
   background-color: white;
